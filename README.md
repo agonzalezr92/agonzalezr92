@@ -4,7 +4,7 @@ Soy un desarrolladora web apasionado por la creación de soluciones innovadoras 
 ## 🏡 De dónde soy
 Soy nacional de Cuba pero actualmente radico en Chile, un lugar donde la tecnología y la creatividad se unen para dar vida a nuevos proyectos digitales.
 
-## ¿A qué me dedico?
+## 🌻 ¿A qué me dedico?
 Me dedico al desarrollo web, trabajando con tecnologías como HTML, CSS, JavaScript, y frameworks como Wordpress, para crear sitios web y aplicaciones interactivas. También tengo experiencia en diseño responsivo y optimización de sitios para todos los dispositivos.
 
 
